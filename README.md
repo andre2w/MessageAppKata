@@ -1,4 +1,4 @@
-# WhatsApp Kata
+# MessageApp Kata
 
 This is a kata where you are going to implement a simple version of a messaging app, without the need to send any other thing besides text. 
 
